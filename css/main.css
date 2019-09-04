@@ -1879,7 +1879,7 @@ my_post_copyright {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #591238;
+  background: #fff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3019,7 +3019,7 @@ img.img-topic {
 }
 .site-nav-toggle {
   top: 7px;
-  left: 90%;
+  left: 86%;
 }
 .btn-bar {
   background-color: #314f4f;
